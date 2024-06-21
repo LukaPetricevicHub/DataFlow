@@ -77,6 +77,6 @@ The field of ETL is vast, and several academic and industry efforts focus on opt
 
 - **ETL for LLM:** "Dataverse: Open-Source ETL (Extract, Transform, Load) Pipeline forLarge Language Models" by Park et al. (2024), (https://arxiv.org/pdf/2403.19340)
 - **Distributed ETL:** "DOD-ETL: Distributed On-Demand ETL for Near Real-TimeBusiness Intelligence" by Machado et al. (2019), (https://arxiv.org/pdf/1907.06723)
-- **Hybrid Big Data ETL:** "On-Demand Big Data Integration a Hybrid ETL Approach for Reproducible Scientific Research" by Kathiravelu et al. (2018), (https://arxiv.org/pdf/1804.08985)
+- **Big Data ETL:** "On-Demand Big Data Integration a Hybrid ETL Approach for Reproducible Scientific Research" by Kathiravelu et al. (2018), (https://arxiv.org/pdf/1804.08985)
 
 Comments and suggestions for improving this project are very welcome!
