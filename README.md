@@ -21,12 +21,13 @@ To get started with the Sales ETL Pipeline, follow these steps:
 ### Installation
 
 1. **Clone the repository:**
-    ```bash
+    -
+   ```bash
     git clone https://github.com/yourusername/sales-etl.git
     cd sales-etl
     ```
 
-2. **Set up the environment:**
+3. **Set up the environment:**
     - Ensure you have Python and the necessary libraries installed. You can use a virtual environment for isolation:
       ```bash
       python -m venv venv
@@ -34,7 +35,7 @@ To get started with the Sales ETL Pipeline, follow these steps:
       pip install -r requirements.txt
       ```
 
-3. **Configure the environment variables:**
+4. **Configure the environment variables:**
     - Create a `.env` file in the root directory and set up the necessary environment variables. See the `.env.sample` file for an example.
 
 ### Usage
