@@ -14,8 +14,6 @@ This ETL pipeline is designed to be highly customizable. By adjusting the script
 - **Data Transformation:** Customize the transformation logic to clean and format the data according to your needs. This includes handling missing values, standardizing formats, and applying business rules.
 - **Data Loading:** Configure the target database settings to load data into different databases such as MySQL, Hive, or any other SQL/NoSQL database.
 
-This project was developed by [Your Name] with contributions from [Collaborator Names]. The primary goal is to provide a flexible and efficient pipeline for processing sales data.
-
 ## Getting Started
 
 To get started with the Sales ETL Pipeline, follow these steps:
