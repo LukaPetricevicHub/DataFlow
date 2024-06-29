@@ -21,7 +21,6 @@ To get started with the Sales ETL Pipeline, follow these steps:
 ### Installation
 
 1. **Clone the repository:**
-    -
    ```bash
     git clone https://github.com/yourusername/sales-etl.git
     cd sales-etl
