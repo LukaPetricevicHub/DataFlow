@@ -23,7 +23,7 @@ To get started with the Sales ETL Pipeline, follow these steps:
 1. **Clone the repository:**
    ```bash
     git clone https://github.com/LukaPetricevicHub/DataFlow.git
-    cd sales-etl
+    cd DataFlow
     ```
 
 3. **Set up the environment:**
