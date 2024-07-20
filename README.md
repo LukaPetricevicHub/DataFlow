@@ -1,4 +1,4 @@
-# Sales ETL Pipeline
+# DataFlow
 
 This project demonstrates an ETL (Extract, Transform, Load) pipeline for processing sales data. The main steps are:
 
@@ -57,7 +57,7 @@ To get started with the Sales ETL Pipeline, follow these steps:
 
 ## License
 
-Sales ETL Pipeline is released under the MIT License. You are free to use, modify, and distribute the code for both commercial and non-commercial purposes.
+DataFlow is released under the MIT License. You are free to use, modify, and distribute the code for both commercial and non-commercial purposes.
 
 ## Ideas for Extensions
 
