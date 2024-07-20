@@ -22,7 +22,7 @@ To get started with the Sales ETL Pipeline, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-    git clone https://github.com/yourusername/sales-etl.git
+    git clone https://github.com/LukaPetricevicHub/sales-etl.git
     cd sales-etl
     ```
 
